@@ -5,7 +5,7 @@ from scipy.special import comb    # atención: exact=True
 
 """"PRÁCTICA 2.1. Programar el cálculo de la representación de Casteljau y computar el gráfico de la visualización geométrica."""
 """XIOMARA GERALDINE CÁCERES CHANCAHUANA"""
-"""LUNES 28/04/2025"""
+"""MARTES 29/04/2025"""
 
 # ndarray de 4+1 puntos de control
 pcontrol = np.array([ 
