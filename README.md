@@ -69,6 +69,10 @@ p = np.array([ [-5, -5], [-5, 4], [0, 8], [5, 5], [5, -2], [0, -3] ]).T
 
 Calcular las funciones base N_0,3, N_1,3, ..., N_5,3 y computar el gráfico del polígono de control y de la curva p(u) del B-spline, identificando los trazos de curva correspondientes a los segmentos del parámetro con colores distintos, como se hace en la primera parte del programa l_5_derivada_spline.py. Computar asimismo el gráfico de las funciones base para p=3 (fijarse en l_2_base_nodo_mult.py).
 
+![Plot practica2.2](./Plots/Practica31_1.png)
+
+![Plot practica2.2](./Plots/Practica31_2.png)
+
 ### PRACTICA 3.2
 
 En el B-spline anterior mover el punto de control p1, computando los gráficos de la curva original y de la curva nueva, con sus polígonos de control, representar cada segmento (trazo de curva) con un color distinto. Observar qué trazos se modifican.
