@@ -1,4 +1,4 @@
-# PLOTS PRÁCTICA TEÓRICA MED 24-25
+# PLOTS PRÁCTICA TEÓRICA M3D 24-25
 
 **Autor:** Xiomara Geraldine Cáceres Chancahuana  
 **Fecha:** 30/04/2025
