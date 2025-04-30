@@ -88,3 +88,11 @@ Repetir la práctica moviendo el punto de control p2 en lugar de p1.
 En el B-spline de la Práctica 3.1 insertar el nodo u = 0.5 siguiendo el procedimiento reflejado en el Cuestionario. Computar el gráfico del nuevo polígono de control y de la nueva curva B-spline, con un color distinto para cada trazo de la curva.
 
 Comparar los trazos de curva del nuevo B-spline con los trazos del B-spline original: los que se preservan y los que resultan de la división del segmento donde se inserta el nodo, cuáles se modifican.
+
+![Plot practica3.3 original](./Plots/Practica33_1.png)
+
+![Plot practica3.3 insercion](./Plots/Practica33_2.png)
+
+![Plot practica3.3 original](./Plots/Practica33_3.png)
+
+![Plot practica3.3 insercion](./Plots/Practica33_4.png)
